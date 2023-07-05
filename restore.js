@@ -21,3 +21,5 @@ northwindImporter.import('./northwind.sql')
   .finally(() => {
     northwindImporter.disconnect();
   });
+
+  // iniciando projeto
