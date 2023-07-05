@@ -1,0 +1,1 @@
+SHOW KEYS FROM products WHERE Key_name = 'PRIMARY';
